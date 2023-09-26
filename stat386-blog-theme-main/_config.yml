@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Predictive Prescience
+title: "Predictive Prescience"
 email: tdhanks@byu.edu
 description: "From Data to Destiny: Navigating Tomorrow with Statistical Insight" 
 baseurl: "/stat386-blog-theme" # the name of the repository 
